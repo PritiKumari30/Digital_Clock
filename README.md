@@ -26,6 +26,6 @@ The clock uses:
 
 
 ## 🌐 Live Demo
-(Add your GitHub Pages deployed link here after deployment)
+ https://pritikumari30.github.io/Digital_Clock/
 
 
